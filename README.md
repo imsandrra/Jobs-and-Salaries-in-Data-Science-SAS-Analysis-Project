@@ -81,7 +81,7 @@ For questions or suggestions, feel free to reach out:
 
 - GitHub: [imsandrra](https://github.com/your-github-username)
 - Email: oleksandrakrykun2@gmail.com
-- Linkedin: (https://www.linkedin.com/in/oleksandra-krykun-0b45552a1/)
+- Linkedin: [Oleksandra Krykun](https://www.linkedin.com/in/oleksandra-krykun-0b45552a1/)
 
 ---
 
