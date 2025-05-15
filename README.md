@@ -79,8 +79,9 @@ This project uses public data originally shared on Kaggle. Ensure you follow any
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- Email: your.email@example.com
+- GitHub: [imsandrra](https://github.com/your-github-username)
+- Email: oleksandrakrykun2@gmail.com
+- Linkedin: (https://www.linkedin.com/in/oleksandra-krykun-0b45552a1/)
 
 ---
 
