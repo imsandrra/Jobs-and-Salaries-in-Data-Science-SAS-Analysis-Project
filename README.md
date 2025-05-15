@@ -10,3 +10,8 @@ The project focuses on uncovering trends and insights into salary patterns withi
 
 ## 📁 Repository Structure
 
+.
+├── project_code.sas # Main SAS program with data import, cleaning, and analysis
+├── README.md # Project overview and documentation
+├── jobs_in_data.csv # Original dataset (if included, check licensing)
+└── output/ # Folder for plots, summary tables, and visualizations (optional)
