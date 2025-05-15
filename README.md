@@ -9,7 +9,11 @@ The project focuses on uncovering trends and insights into salary patterns withi
 ---
 
 ## 📁 Repository Structure
-
+.
+├── project_code.sas
+├── README.md
+├── jobs_in_data.csv
+└── output/
 
 ---
 
