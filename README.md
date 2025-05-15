@@ -7,14 +7,12 @@ This repository contains a full SAS-based exploratory data analysis (EDA) of the
 The project focuses on uncovering trends and insights into salary patterns within the Data Science industry, considering variables such as job title, experience level, company size, employment type, and geographic location.
 
 ---
-
 ## 📁 Repository Structure
 .
 ├── project_code.sas
 ├── README.md
 ├── jobs_in_data.csv
 └── output/
-
 ---
 
 ## 🧾 Dataset Description
