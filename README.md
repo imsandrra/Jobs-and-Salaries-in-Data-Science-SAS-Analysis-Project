@@ -1,4 +1,4 @@
-# 💼 Jobs and Salaries in Data Science — SAS Analysis Project
+# 💼 Data Science Job Salaries — SAS Analysis Project
 
 ## 📊 Project Overview
 
