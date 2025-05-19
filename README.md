@@ -69,6 +69,11 @@ The analysis performed in SAS covers:
 
 ---
 
+## 📷 Screenshots
+
+
+---
+
 ## 📎 License
 
 This project uses public data originally shared on Kaggle. Ensure you follow any terms set by the dataset provider.
@@ -86,3 +91,5 @@ For questions or suggestions, feel free to reach out:
 ---
 
 **⭐ If you find this project helpful, feel free to star the repo and share it!**
+
+
